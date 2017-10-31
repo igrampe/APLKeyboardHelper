@@ -1,0 +1,6 @@
+framework module Pods_APLKeyboardHelper_Tests {
+  umbrella header "Pods-APLKeyboardHelper_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

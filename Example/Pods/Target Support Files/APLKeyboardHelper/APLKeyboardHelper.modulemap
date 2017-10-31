@@ -1,0 +1,6 @@
+framework module APLKeyboardHelper {
+  umbrella header "APLKeyboardHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
