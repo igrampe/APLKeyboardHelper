@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'APLKeyboardHelper_Example' do
+  pod 'APLKeyboardHelper', :path => '../'
+
+  target 'APLKeyboardHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
